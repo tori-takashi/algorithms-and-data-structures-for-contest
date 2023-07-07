@@ -1,4 +1,7 @@
 {
     "github.copilot.editor.enableAutoCompletions": false,
-    "github.copilot.inlineSuggest.enable": false
+    "github.copilot.inlineSuggest.enable": false,
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
